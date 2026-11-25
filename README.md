@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Hesham Mahmoud </h1>
 
 <p align="center">
- <a><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=275&size=40&duration=4000&pause=500&color=F7E124&center=true&vCenter=true&width=600&lines=Junior+QA+%26+Testing+Engineer" alt="Typing SVG" /></a>
+ <a><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=275&size=40&duration=4000&pause=500&color=F7E124&center=true&vCenter=true&width=600&lines=Junior+QA+%26+Testing+Engineer;ISTQB+CTFL+v4.0+Certified" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -11,10 +11,20 @@
 <h3 align="left">About Me:</h3>
 <ul>
   <li><strong>Junior Software Testing / QA Engineer</strong> with hands-on experience in Manual, API, Automation, and Mobile Testing.</li>
+  <li><strong>Certification:</strong> ISTQB Certified Tester Foundation Level (CTFL) v4.0 - score 95%.</li>
+  <li><strong>Experience:</strong> Software Quality Assurance & Automation Engineering Intern at MadarSoft (Jul 2026 - Nov 2026).</li>
+  <li><strong>Training:</strong> Software Testing Trainee at DigiLians - MCIT (Feb 2026 - Jun 2026).</li>
   <li><strong>Education:</strong> B.A. in Geography, Faculty of Arts - Alexandria University (2018 - 2023).</li>
-  <li><strong>Training:</strong> Software Testing Trainee at MCIT (Feb 2026 - Jun 2026).</li>
-  <li><strong>Technical Skills:</strong> Selenium WebDriver, Appium, TestNG, Cucumber, REST Assured, Postman, SQL, JIRA, Git/GitHub.</li>
-  <li><strong>Soft Skills:</strong> Analytical Thinking, Problem Solving, Communication, Team Collaboration.</li>
+  <li><strong>Technical Skills:</strong> Selenium WebDriver, Appium, TestNG, Cucumber, REST Assured, Postman, SQL, Maven, JIRA, Git/GitHub.</li>
+  <li><strong>Soft Skills:</strong> Analytical Thinking, Attention to Detail, Problem Solving, Communication, Team Collaboration, Time Management.</li>
+  <li><strong>Languages:</strong> Arabic (Native), English (Advanced).</li>
+</ul>
+
+<h3 align="left">Featured Projects:</h3>
+<ul>
+  <li><strong><a href="https://github.com/HeshamMahmoud1012/Siryan-Healthcare-QA">Siryan Healthcare Management System - QA Deliverables</a></strong>: manual test cases, API testing with Postman, Selenium automation, and defect reports for a graduation team project.</li>
+  <li><strong><a href="https://github.com/HeshamMahmoud1012/Guru99-Manual-Testing-Project">Guru99 Bank - Manual Testing Project</a></strong>: end-to-end manual test suite covering functional, regression, smoke, and exploratory testing.</li>
+  <li><strong><a href="https://github.com/HeshamMahmoud1012/Restassure">Restassure</a></strong> and <strong><a href="https://github.com/HeshamMahmoud1012/Restful-Booker-API-Performance-Project">Restful Booker API Performance Project</a></strong>: API testing and performance testing practice.</li>
 </ul>
 
 <table>
@@ -59,6 +69,16 @@
     <td align="center">
       <a href="https://www.atlassian.com/software/jira">
         <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="JIRA" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://maven.apache.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="90" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://cucumber.io/">
+        <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" alt="Cucumber" width="50" height="50"/>
       </a>
     </td>
     <td align="center">
